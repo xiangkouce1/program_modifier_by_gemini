@@ -4,3 +4,7 @@ def hello():
 
 def calcu(a, b):
     return a**b
+
+def gravity(m, g):
+    force = m*g
+    return force
