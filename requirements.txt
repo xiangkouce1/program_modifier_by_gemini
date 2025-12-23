@@ -1,4 +1,4 @@
 Typer
 OS
 google.generativeai
-
+dotenv
