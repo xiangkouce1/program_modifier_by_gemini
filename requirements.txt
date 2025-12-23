@@ -1,1 +1,4 @@
 Typer
+OS
+google.generativeai
+
